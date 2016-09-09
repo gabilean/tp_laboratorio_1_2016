@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1473304923 source:d:\games\calculadora\calc.c
+
+1473304461 source:d:\games\calculadora\main.c
+	<stdio.h>
+	<stdlib.h>
+	"calc.h"
+
+1473304935 d:\games\calculadora\calc.h
+
+1473292070 source:c:\users\gabriel\documents\github\tp_laboratorio_1\tp1\calc.c
+
